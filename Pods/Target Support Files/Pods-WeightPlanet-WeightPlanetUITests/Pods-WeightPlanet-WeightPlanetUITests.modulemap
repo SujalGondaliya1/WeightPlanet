@@ -1,0 +1,6 @@
+framework module Pods_WeightPlanet_WeightPlanetUITests {
+  umbrella header "Pods-WeightPlanet-WeightPlanetUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
